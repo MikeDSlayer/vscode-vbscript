@@ -1,6 +1,6 @@
 {
   "comment": "based on asp textmate bundle by Rich Barton",
-  "fileTypes": ["asp","vbs","vb","vba","bas","frm","cls"],
+  "fileTypes": ["asp","vbs","vb","vba","bas","frm","cls","mts","qfl"],
   "name": "VBScript",
   "patterns": [    
     {

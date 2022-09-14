@@ -43,7 +43,9 @@
                     ".wsc",
                     ".acm",
                     ".acr",
-                    ".acf"
+                    ".acf",
+                    ".mts",
+                    ".qfl"
                 ],
                 "configuration": "./language-configuration.json"
             }
